@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parent {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+.square_blue{
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.square_green{
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+.square_red{
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}

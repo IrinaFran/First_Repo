@@ -1,23 +1,23 @@
 .parent {
-    display: flex;
-    height: 100vh;
-    align-items: center;
-    justify-content: center;
-    }
-.square_blue{
-    margin-right: 10px;
-    width: 100px;
-    height: 100px;
-    background-color: blue;
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
 }
-.square_green{
-    margin-right: 10px;
-    width: 100px;
-    height: 100px;
-    background-color: green;
+.square_blue {
+  margin-right: 10px;
+  width: 100px;
+  height: 100px;
+  background-color: blue;
 }
-.square_red{
-    width: 100px;
-    height: 100px;
-    background-color: red;
+.square_green {
+  margin-right: 10px;
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+.square_red {
+  width: 100px;
+  height: 100px;
+  background-color: red;
 }
